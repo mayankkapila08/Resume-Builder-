@@ -1,5 +1,5 @@
 import { useRef } from 'react';
-import jsPDF from 'jspdf';
+import {jsPDF} from 'jspdf';
 import html2canvas from 'html2canvas';
 import Preview from './Preview';
 import { useLocation } from 'react-router-dom';
